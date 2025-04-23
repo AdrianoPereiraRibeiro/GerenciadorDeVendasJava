@@ -42,3 +42,4 @@ Todos os dados são armazenados em memória (não há persistência em arquivos 
 
 Este sistema tem foco didático, ideal para introduzir conceitos de orientação a objetos e lógica de programação.
 
+![Captura de tela 2025-04-23 064829](https://github.com/user-attachments/assets/17347f20-8b40-4de0-af88-b108a9b8957d)
